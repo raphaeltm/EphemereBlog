@@ -26,10 +26,12 @@ exclude:
 algolia:
   application_id: 'NO0ERQGCSX'
   index_name:     'Pages'
+  search_key: 'caa9bd43697e772760e65465e64100e5'
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: "posts"
     values:
       layout: "post"
       comments: true
