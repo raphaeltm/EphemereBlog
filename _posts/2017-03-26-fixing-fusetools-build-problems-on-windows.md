@@ -8,6 +8,8 @@ As I understand it, they offer a templating language (called UX, I think) which 
 
 I had only used the desktop preview to see how all of this works, but really wanted to try building one of the example projects to run on my LG G5 running Android Nougat. But it refused to work!
 
+{% include large_image.html url="fusetoolsbuild.PNG" %}
+
 The first thing to keep in mind is that Google has been transitioning the Android build process away from [Ant](http://ant.apache.org/) to [Gradle](https://gradle.org/). Unfortunately, the default for FuseTools is Ant, which isn't available if you recently (late March 2017) installed [Android Studio](https://developer.android.com/studio/index.html). The solution? When you run `fuse build --target=Android` include the `-DGRADLE` flag: 
 
 `fuse build --target=Android -DGRADLE`
