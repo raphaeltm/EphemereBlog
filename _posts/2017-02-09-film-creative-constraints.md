@@ -12,9 +12,9 @@ It got me thinking… I’ve been shooting more and more film, and until now I�
 
 I find film particularly interesting from the perspective of someone who works a lot with digital media. When I shoot digitally, I shoot RAW because I want as much flexibility as possible *after* I’ve captured the shot. There are many reasons for which I shoot film, but this recent discussion got me thinking about how much I love the freedom that comes from having the look and feel of the image largely constrained by my film choice.
 
-With the image above, I chose to shoot a roll of Velvia. I made a choice *before* taking the shot that the entire roll would have a certain look and feel to it. This offers less creative flexibility after the fact, but that’s precisely what can be fun about film: you’re giving yourself a creative constraint to work with. And creative constraints can be, paradoxically, extremely liberating, because the allow you to think more about the things that aren’t constrained.
-
 {% include large_image.html url="vanharbour.jpeg" caption="Looking out at the Vancouver Harbour. Rollei Retro 80S." %}
+
+With the image above, I chose to shoot a roll of Velvia. I made a choice *before* taking the shot that the entire roll would have a certain look and feel to it. This offers less creative flexibility after the fact, but that’s precisely what can be fun about film: you’re giving yourself a creative constraint to work with. And creative constraints can be, paradoxically, extremely liberating, because the allow you to think more about the things that aren’t constrained.
 
 For example, in this image of the Vancouver Harbour, I couldn’t rely on the colour of all the industrial equipment to create the look and feel I wanted in the image. I had to rely primarily on the patterns and lines in the scene to build a composition I liked. Of course, light is also particularly important to think about when colour is out of the game.
 
